@@ -28,3 +28,10 @@ HELP.md
 ### VS Code ###
 .vscode/
 /.mvn/
+/mvnw
+/mvnw.cmd
+/target/
+/hystrix-client/target/
+/eureka-service/target/
+/eureka-client/target/
+/target/
